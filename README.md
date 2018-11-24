@@ -1,4 +1,4 @@
 # tizen
   * typo
-   ** https://github.com/eksson/tizen
+   - https://github.com/eksson/tizen
   
